@@ -1,0 +1,45 @@
+{
+  "name": "Nguyễn Hữu Duy",
+  "title": "Frontend Engineer (React) • Aspiring Backend (Java/Spring)",
+  "bio": "Mình chuyên xây UI hiện đại bằng React + TypeScript, tối ưu performance và accessibility. Muốn thể hiện cả backend với Spring Boot.",
+  "avatar": "/avatar.jpg",
+  "social": {
+    "github": "https://github.com/duycoding",
+    "linkedin": "https://www.linkedin.com/in/yourname"
+  },
+  "skills": [
+    { "name": "TypeScript", "level": 90 },
+    { "name": "React", "level": 90 },
+    { "name": "Next.js", "level": 80 },
+    { "name": "Tailwind CSS", "level": 85 },
+    { "name": "Java (Spring)", "level": 60 }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "SocialEcho (mini)",
+      "summary": "Chat app demo with Socket.IO, moderation rules.",
+      "tech": ["React", "Socket.IO", "Node"],
+      "image": "/projects/socialecho.png",
+      "repo": "https://github.com/yourname/socialecho",
+      "live": ""
+    },
+    {
+      "id": "proj-2",
+      "title": "Todo App (Redux+Tailwind)",
+      "summary": "Todo app demo: React, Redux Toolkit, Tailwind.",
+      "tech": ["React", "Redux Toolkit", "Tailwind"],
+      "image": "/projects/todo.png",
+      "repo": "https://github.com/yourname/todo",
+      "live": ""
+    }
+  ],
+  "experience": [
+    {
+      "company": "Công ty A",
+      "role": "Intern Backend Developer (Mulesoft - Java)",
+      "period": "11/2024 - 03/2025",
+      "description": "Phát triển SPA bằng React, tối ưu performance."
+    }
+  ]
+}
