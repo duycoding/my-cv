@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 /* Small global helpers */
-html, body, #__next {
-  height: 100%;
+html, body {
+  @apply bg-bg text-text;
 }
+
+.container {
+  @apply mx-auto px-6 py-12;
+}
+
